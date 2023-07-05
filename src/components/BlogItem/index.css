@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.list-item {
+  display: flex;
+  flex-direction: column;
+  border-top-color: transparent;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: #9aa5b1;
+  border-style: solid;
+}
+.title-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  color: #12022f;
+  font-size: 28px;
+  font-weight: bold;
+}
+.date {
+  color: #616e7c;
+}
+.description {
+  color: #616e7c;
+}

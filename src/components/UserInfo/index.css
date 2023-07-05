@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.user-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.profile-image {
+  width: 60px;
+  height: 60px;
+}
+.username {
+  color: #12022f;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.userrole {
+  color: #616e7c;
+}
